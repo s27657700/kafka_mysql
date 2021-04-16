@@ -1,1 +1,1 @@
-### kafka_mysql
+從Kafka取得資料後存入MySQL
